@@ -13,9 +13,9 @@ use Illuminate\Support\Str;
 
 /**
  * @OA\Info(
- *     title="Auth management APIs",
+ *     title="Farwell server apis",
  *     version="1.0.0",
- *     description="Auth management APIs"
+ *     description="Auth, User, and Employee APIs",
  * )
  */
 class AuthController extends Controller
