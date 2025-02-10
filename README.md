@@ -6,8 +6,6 @@ Farwell is a web application built with Laravel, providing user authentication, 
 ## Technologies Used
 - PHP
 - Laravel
-- JavaScript
-- NPM
 - Composer
 - MySQL
 
